@@ -1,0 +1,16 @@
+body{
+    background-color:white;
+}
+#about{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+#exp{
+    color: black;
+    margin: 3px;
+    margin-left: 3px;
+}
+.navbar-brand{
+    color: white;
+}
